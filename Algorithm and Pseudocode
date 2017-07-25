@@ -1,0 +1,6 @@
+Generate random number between 1 and 10
+Query user for their guess
+	If correct, end program
+	If wrong, prompt if they want to try again
+		if no, end program
+		if yes, query for guess
